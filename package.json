@@ -51,5 +51,5 @@
     "node-opcua-file-transfer": "^2.124.0",
     "os-locale": "^6.0.2"
   },
-  "homepage": "https://github.com/Zenitel-AS/node-red-contrib-zenitel-opcua#readme",
+  "homepage": "https://github.com/Zenitel-AS/node-red-contrib-zenitel-opcua#readme"
 }
